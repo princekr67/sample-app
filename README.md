@@ -1,1 +1,2 @@
-this is sample app project..
+this is sample app project.
+ addGIT 
